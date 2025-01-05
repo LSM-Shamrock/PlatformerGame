@@ -1,0 +1,8 @@
+C:/CodingProjects/PlatformerGame 1.3/.utmp/RelWithDebInfo/306ta2e7/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/CodingProjects/PlatformerGame 1.3/.utmp/RelWithDebInfo/306ta2e7/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/CodingProjects/PlatformerGame 1.3/.utmp/RelWithDebInfo/306ta2e7/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/CodingProjects/PlatformerGame 1.3/.utmp/RelWithDebInfo/306ta2e7/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/CodingProjects/PlatformerGame 1.3/.utmp/RelWithDebInfo/306ta2e7/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
+C:/CodingProjects/PlatformerGame 1.3/.utmp/RelWithDebInfo/306ta2e7/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/CodingProjects/PlatformerGame 1.3/.utmp/RelWithDebInfo/306ta2e7/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+C:/CodingProjects/PlatformerGame 1.3/.utmp/RelWithDebInfo/306ta2e7/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir
