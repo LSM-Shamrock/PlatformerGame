@@ -16,7 +16,7 @@ public class PlayerSounder : MonoBehaviour
         if ( _audioSource == null)
             _audioSource = gameObject.AddComponent<AudioSource>();
 
-        _rb.GetComponent<Rigidbody2D>();
+        _rb = GetComponent<Rigidbody2D>();
     }
 
     private void LateUpdate()
